@@ -4,7 +4,7 @@
 # ------------------------------
 
 # Parse command line arguments
-PROJECT_NAME="RPG Starter Pack_2"
+# PROJECT_NAME="RPG Starter Pack_2"
 COMMAND="Run"  # Default command
 
 while [[ $# -gt 0 ]]; do
