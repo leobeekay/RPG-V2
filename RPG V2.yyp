@@ -37,7 +37,6 @@
   "resources":[
     {"id":{"name":"font_debug","path":"fonts/font_debug/font_debug.yy",},},
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
-    {"id":{"name":"obj_debug_overlay","path":"objects/obj_debug_overlay/obj_debug_overlay.yy",},},
     {"id":{"name":"obj_drawer","path":"objects/obj_drawer/obj_drawer.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_tv","path":"objects/obj_tv/obj_tv.yy",},},

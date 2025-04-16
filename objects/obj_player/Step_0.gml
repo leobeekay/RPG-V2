@@ -65,12 +65,4 @@ depth = -bbox_bottom;
 
 
 
-// In obj_bed's Draw event
-if (instance_exists(obj_debug_overlay)) {
-    with (obj_debug_overlay) {
-        array_insert(debug_log, 0, "Bed depth: " + string(other.depth) + " | Player depth: " + string(_player.depth));
-        if (array_length(debug_log) > max_logs) array_pop(debug_log);
-    }
-}
-
 
