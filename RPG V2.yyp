@@ -58,6 +58,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_warp_block","path":"sprites/spr_warp_block/spr_warp_block.yy",},},
     {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
   ],
   "resourceType":"GMProject",
