@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"spr_npc_alferd",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":32,
-  "bbox_left":0,
-  "bbox_right":13,
+  "bbox_left":1,
+  "bbox_right":12,
   "bbox_top":11,
   "collisionKind":1,
   "collisionTolerance":0,
